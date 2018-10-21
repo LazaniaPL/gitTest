@@ -1,6 +1,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Witajcie w mojej kuchni");
+        System.out.println("Pozdrawiam całą rodzinę");
     }
 }
